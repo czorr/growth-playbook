@@ -2,7 +2,7 @@
 
 El Vulcan Growth Model nace bajo la inversión del [funnel tradicional de marketing](marketing-funnel.md) haciendo analogía con un volcán.
 
-<figure><img src="../.gitbook/assets/Frame 5.png" alt=""><figcaption><p>Analogía del volcán.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 5 (1).png" alt=""><figcaption><p>Analogía del volcán.</p></figcaption></figure>
 
 Popularmente se acepta un concepto erróneo de un funnel o _embudo,_ filtrando a los leads que lo atraviesan y encasillándolos en 5 etapas (o 6, dependiendo que funnel consultes). Pero la realidad es que ese concepto no se ha replanteado desde [**1910 por John Dewey**](#user-content-fn-1)[^1], o incluso hay versiones iniciales en extractos de[ **Elmo Lewis en 1898**](#user-content-fn-2)[^2]****.[^3]
 

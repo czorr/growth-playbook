@@ -24,7 +24,24 @@ Un journey hasta la compra no funciona así.
 
 <figure><img src="../.gitbook/assets/Frame 6 (1).png" alt="ventajas del vulcan growth mode"><figcaption></figcaption></figure>
 
-El **framework** [**vgm**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) no pretende ser una verdad absoluta ni marcar un funnel adecuado que permee en la amplia gama de industrias, productos, servicios o contextos, pero si te ayudará a mapear tu propio funnel específico para el tuyo.
+El [**vulcan growth model**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) es una analogía inversa del _funnel de ventas_ con un volcán, buscando una erupción en la conversión de leads, en lugar de ser un filtro.
+
+El **framework** [**vgm**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) no pretende ser una verdad absoluta ni marcar un funnel adecuado que permee en la amplia gama de industrias, productos, servicios o contextos, pero si te ayudará a mapear un funnel específico para el tuyo.
+
+Existen opiniones divididas en el sector B2B sobre la utilización de un funnel, y esto se debe a que no existe un solo camino correcto que atravesar hasta convertirse en cliente de una empresa, y eso no sólo aplica para el B2B:
+
+* Puedo pasar al lado de una tienda y comprar impulsivamente.
+* Puedo ver un panorámico en las calles y llamar por teléfono para conocer su dirección.
+* Puedo buscar en Google su producto y comprar en su tienda en línea.
+* Puedo ver un anuncio en Tik Tok y comprarlo con un retailer de Amazon que revende los productos.
+
+### Existen "n" maneras en las que un posible cliente se convierte en uno; la medición de este proceso de compra no se logra ni con experimentación, ni campañas en distintos canales, ni mucho menos de forma intuitiva... se logra entendiendo el proceso mental de los usuarios.
+
+
+
+En resumen, el **vgm**: concentra esfuerzos en entender el proceso mental del lead ANTES y DURANTE el funnel, mapear los _n_ caminos distintos que puede tomar el lead hasta convertirse en cliente y la frecuencia en la que está nutriendo su contexto sobre el problema/solución.
+
+<figure><img src="../.gitbook/assets/Frame 7 (1).png" alt=""><figcaption><p>Vulcan Framework</p></figcaption></figure>
 
 [^1]: Reference: [https://www.google.ca/books/edition/How\_We\_Think/zcvgXWIpaiMC?hl=en\&gbpv=0](https://www.google.ca/books/edition/How\_We\_Think/zcvgXWIpaiMC?hl=en\&gbpv=0)
 

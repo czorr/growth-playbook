@@ -4,7 +4,7 @@
 * [⬛ lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
 * [🟧 Fundamentals](fundamentals/README.md)
   * [Marketing Funnel](fundamentals/marketing-funnel.md)
-  * [Framework](fundamentals/framework.md)
+  * [Vulcan Framework](fundamentals/vulcan-framework.md)
   * [Mental Process](fundamentals/mental-process.md)
   * [Stages](fundamentals/stages.md)
   * [VGM Funnel](fundamentals/vgm-funnel.md)

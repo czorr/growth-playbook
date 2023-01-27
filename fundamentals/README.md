@@ -10,7 +10,7 @@ Las cosas han cambiado desde entonces. Incluso antes de la pandemia COVID-19 pod
 
 Un journey hasta la compra no funciona así.
 
-## Como funciona...
+### Como funciona...
 
 {% tabs %}
 {% tab title="... el funnel de marketing." %}
@@ -21,8 +21,6 @@ Un journey hasta la compra no funciona así.
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>No funciona un lead que se convertirá en una unidad de <em>churn</em></td></tr><tr><td>Es un conjunto de etapas, tiempos y canales mentales</td></tr><tr><td>El enfoque principal es la aceleración</td></tr><tr><td>Mide la profundidad del funnel</td></tr><tr><td>Existen "n" caminos y es necesario mapear la mayoría</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
-
-<figure><img src="../.gitbook/assets/Frame 6 (1).png" alt="ventajas del vulcan growth mode"><figcaption></figcaption></figure>
 
 El [**vulcan growth model**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) es una analogía inversa del _funnel de ventas_ con un volcán, buscando una erupción en la conversión de leads, en lugar de ser un filtro.
 
@@ -35,9 +33,9 @@ Existen opiniones divididas en el sector B2B sobre la utilización de un funnel,
 * Puedo buscar en Google su producto y comprar en su tienda en línea.
 * Puedo ver un anuncio en Tik Tok y comprarlo con un retailer de Amazon que revende los productos.
 
-### Existen "n" maneras en las que un posible cliente se convierte en uno; la medición de este proceso de compra no se logra ni con experimentación, ni campañas en distintos canales, ni mucho menos de forma intuitiva... se logra entendiendo el proceso mental de los usuarios.
-
-
+{% hint style="warning" %}
+Existen "n" maneras en las que un posible cliente se convierte en uno; la medición de este proceso de compra no se logra ni con experimentación, ni campañas en distintos canales, ni mucho menos de forma intuitiva... se logra entendiendo el proceso mental de los usuarios.
+{% endhint %}
 
 En resumen, el **vgm**: concentra esfuerzos en entender el proceso mental del lead ANTES y DURANTE el funnel, mapear los _n_ caminos distintos que puede tomar el lead hasta convertirse en cliente y la frecuencia en la que está nutriendo su contexto sobre el problema/solución.
 

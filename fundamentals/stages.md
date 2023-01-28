@@ -25,4 +25,4 @@ Pero este problema, sea cual sea la solución, tiene su raíz en un trigger, ese
 
 Tanto la realización del problema como el trigger son iguales de relevantes para el contexto del lead. A final de cuentas estos funcionan como catalizadores de soluciones imaginarias en el entorno de ese contexto.
 
-En base a este proceso mental definiremos ahora un funnel...
+En base a este proceso mental definiremos las etapas o **stages**.

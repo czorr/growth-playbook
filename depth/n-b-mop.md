@@ -1,26 +1,26 @@
-# 2. N;B;MoP
+---
+description: >-
+  = new (lead nuevos en ese channel), bye (leads perdidos en ese channel) y mop
+  (leads que convirtieron en ese channel)
+---
+
+# N;B;MoP
 
 <figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-77-510x326.png" alt=""><figcaption></figcaption></figure>
 
 Llenamos nuestra matriz con los _**new**_, _**bye**_ y _**mop**_.
 
-Te explico que son con el ejemplo del canal **«explorando»**:
+Te explico que son con el ejemplo del canal **«explorando»** en la matriz de arriba:
 
-***
-
-_**new**_ = Leads que entran al funnel explorando su problema
+#### _**new**_ = Leads que entran al funnel explorando su problema
 
 Un lead que, buscando en Google sobre tu industria, encontró una entrada de blog interesante en tu sitio web.
 
-***
-
-_**bye**_ = Leads que salen del funnel explorando su problema
+#### _**bye**_ = Leads que salen del funnel explorando su problema
 
 Un lead que tuvo contacto en la etapa de exploración sobre su problema, pero nos ignoró.
 
-***
-
-_**mop**_ = Leads que compran explorando su problema.
+#### _**mop**_ = Leads que compran explorando su problema.
 
 Un lead que compro directamente sin interacción previa.
 

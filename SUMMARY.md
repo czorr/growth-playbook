@@ -1,7 +1,6 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [⬛ lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
 * [🟧 Fundamentals](fundamentals/README.md)
   * [Marketing Funnel](fundamentals/marketing-funnel.md)
   * [Vulcan Framework](fundamentals/vulcan-framework.md)
@@ -21,3 +20,4 @@
 * [🟪 Marketing Qualified Leads](marketing-qualified-leads/README.md)
   * [mNql](marketing-qualified-leads/mnql.md)
   * [mql](marketing-qualified-leads/mql.md)
+* [⬛ lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)

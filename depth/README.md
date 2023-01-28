@@ -18,10 +18,8 @@ Un cliente puede iniciar el proceso al inicio, a la mitad o casi al final del fu
 
 Si desglosamos la imagen podemos partir el modelo en **3 dimensiones**:
 
-1. Los **steps**, o pasos del funnel;&#x20;
-2. los **leads**, atravesándolos;&#x20;
-3. el **channel**, o el canal que marca el inicio y el fin de cada proceso de compra.
-
 <figure><img src="../.gitbook/assets/Frame 44 (3).png" alt=""><figcaption><p>Tres ejes del vulcan funnel.</p></figcaption></figure>
+
+Los pasos o _**steps** _ (x) son las etapas del main funnel; los ** **_**leads**_ (y) atravesando las etapas; y, los canales o _**channels**_ (z) son comunes denominadores de procesos mentales del lead.
 
 Te explico a detalle cada uno...

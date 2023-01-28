@@ -21,3 +21,4 @@
   * [mNql](marketing-qualified-leads/mnql.md)
   * [mql](marketing-qualified-leads/mql.md)
 * [⬛ lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
+* [🟦 LinkedIn](https://www.linkedin.com/in/luiscarloszorrilla/)

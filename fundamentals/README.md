@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bannerfundam.png
+coverY: 0
+---
+
 # 🟧 Fundamentals
 
 El Vulcan Growth Model nace bajo la inversión del [funnel tradicional de marketing](marketing-funnel.md) haciendo analogía con un volcán.

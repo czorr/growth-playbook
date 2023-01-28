@@ -2,6 +2,7 @@
 description: >-
   = Leads que al inicio del funnel no son considerados de calidad. (marketing
   non qualified lead)
+coverY: 0
 ---
 
 # 🟪 Marketing Qualified Leads

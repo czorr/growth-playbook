@@ -2,6 +2,8 @@
 description: >-
   = La cadencia con la que el lead tiene puntos de contacto con tu solución o
   con su problema.
+cover: ../.gitbook/assets/bannerhype.png
+coverY: 0
 ---
 
 # 🟨 Hype

@@ -6,7 +6,7 @@ coverY: 161
 
 # 👋 Introduction
 
-
+<figure><img src=".gitbook/assets/Frame 8 (8).png" alt=""><figcaption></figcaption></figure>
 
 El marketing siempre ha buscado esos momentos, o touch points , en los que los consumidores están abiertos a la influencia. Durante años, los puntos de contacto se han entendido a través de la metáfora de un «embudo o _funnel_«: los consumidores comienzan con una cantidad de marcas potenciales en mente (el extremo ancho del embudo), luego el marketing se dirige a ellos a medida que reducen metódicamente ese número y se mueven a través del embudo, y al final emergen con la marca que eligieron comprar.
 

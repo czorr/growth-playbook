@@ -1,7 +1,7 @@
 ---
 description: Metodología para crear tu propio funnel tridimensional de marketing.
 cover: .gitbook/assets/Frame 33.png
-coverY: 161
+coverY: 174.8208516886931
 layout: landing
 ---
 

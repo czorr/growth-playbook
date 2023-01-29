@@ -4,9 +4,11 @@ description: Resumen y conclusiones del Vulcan Growth Model
 
 # 🏁 Abstract
 
+<figure><img src=".gitbook/assets/Frame 33.png" alt="vulcangrowthmodel"><figcaption></figcaption></figure>
+
 Si utilizas un embudo tradicional como framework, basas tus métricas en un modelo creado en 1910.
 
-<figure><img src=".gitbook/assets/Frame 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 2.png" alt="funnel desactualizado"><figcaption></figcaption></figure>
 
 Tengo varios meses cuestionándome algún entorno que me permita conocer casi a la perfección los procesos de compra de los leads hasta convertirse en clientes.
 
@@ -20,7 +22,7 @@ Cree un modelo que permite definir las bases de un proceso de compra a una macro
 
 El framework que propone el modelo Vulcan consta de 4 vertientes principales:
 
-<figure><img src=".gitbook/assets/Frame 6 (1).png" alt=""><figcaption><p>Ventajas del Vulcan Growth Model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 6 (1).png" alt="ventajas del vulcan growth model"><figcaption><p>Ventajas del Vulcan Growth Model</p></figcaption></figure>
 
 #### &#x20;<mark style="background-color:orange;">Problem-based funnel</mark>&#x20;
 
@@ -58,7 +60,7 @@ Existe una estructura básica sobre el proceso de toma de decisiones de los huma
 
 Entendiendo el proceso mental podemos crear un framework, el [**vulcan growth model**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/)**:**&#x20;
 
-<figure><img src=".gitbook/assets/Frame 7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 7 (1).png" alt="vulcan growth model funnel"><figcaption></figcaption></figure>
 
 No definimos el _main funnel_, pero sí su estructura; una que toma en cuenta el _trigger_, que crea un problema y activa la búsqueda de soluciones, detecta el choque del problema con la solución, dando entrada al lead al _main funnel_ (el cuál no hemos definido aún) y lo sigue hasta convertirlo en cliente de calidad (o no calificado).
 
@@ -75,19 +77,19 @@ Los stages de un funnel, según el **vgm**, son un espejo de los 5 etapas de com
 3. Selecciono la mejor solución comparando.
 4. Compro.
 
-<figure><img src=".gitbook/assets/Frame 17 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 17 (1).png" alt="funnel basado en el pain"><figcaption></figcaption></figure>
 
 Pongamos como ejemplo a Raúl, tiene un problema respecto a las suscripciones que tiene en servicios digitales de streaming como Spotify, Netflix y Disney+. Tiene tiempo siendo usuario de tantas plataformas que perdió la cuenta de cuanto gasta en suscripciones.
 
-<figure><img src=".gitbook/assets/Frame 23.png" alt=""><figcaption><p>Reconocimiento del problema</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 23.png" alt="vgm job to be done"><figcaption><p>Reconocimiento del problema</p></figcaption></figure>
 
 Las maneras de solucionar su problema por su propia cuenta no son sencillas ni rápidas. Pero son opciones, y son las primeras que vienen a su mente. Revisar su estado de cuenta bancario y registro por registro detectar las suscripciones, decidiendo que hacer con cada una de ellas una por una; puede tomar nota el próximo mes sobre los cobros que le vaya notificando el banco y detecte que venían de una de estas plataformas; puede revisar su correo buscando las plataformas y anotando los recibos de pago, etc...
 
-<figure><img src=".gitbook/assets/Frame 22.png" alt=""><figcaption><p>Posibles auto-soluciones</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 22.png" alt="opciones vulcan growth model"><figcaption><p>Posibles auto-soluciones</p></figcaption></figure>
 
 Pero este problema, sea cual sea la solución, tiene su raíz en un trigger, ese momento de realización sobre la existencia del problema.
 
-<figure><img src=".gitbook/assets/Frame 24.png" alt=""><figcaption><p>Posibles triggers</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 24.png" alt="trigger vulcan growth model"><figcaption><p>Posibles triggers</p></figcaption></figure>
 
 Tanto la realización del problema como el trigger son iguales de relevantes para el contexto del lead. A final de cuentas estos funcionan como catalizadores de soluciones imaginarias en el entorno de ese contexto.
 
@@ -126,7 +128,7 @@ El **hype**, para el vulcan model, es la cadencia que tiene un lead con tus _tou
 
 Para esto funciona el **hype**, te permite medir la cantidad de emoción que se genera entorno a tu empresa como solución de mi problema.
 
-<figure><img src=".gitbook/assets/Frame 35 (1).png" alt=""><figcaption><p>Gravedad del trigger, fórmula de aceleración en física.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 35 (1).png" alt="hype vulcan growth model"><figcaption><p>Gravedad del trigger, fórmula de aceleración en física.</p></figcaption></figure>
 
 La gravedad del _trigger_ puede influir directamente en el _hype_ de tu funnel.
 
@@ -142,7 +144,7 @@ La **fórmula del hype** es una comparación directa con la [fórmula de acelera
 
 
 
-<figure><img src=".gitbook/assets/HYPEFORMULA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/HYPEFORMULA.png" alt="hype formula"><figcaption></figcaption></figure>
 
 
 
@@ -152,17 +154,17 @@ La "**f**" y la "**i**" después de los "**TP**" se refieren a los _touchpoints_
 
 Los **días** hacen referencia al tiempo que tardo en convertirse el lead.
 
-<figure><img src=".gitbook/assets/hypeformulaslide.png" alt=""><figcaption><p>Hype fórmula</p></figcaption></figure>
+<figure><img src=".gitbook/assets/hypeformulaslide.png" alt="hype formula explicada"><figcaption><p>Hype fórmula</p></figcaption></figure>
 
 Todos los _touchpoints_ que tenga el lead con mi producto integral durante la **etapa de discovery**, son considerados **TP iniciales**.
 
 Todos los _touchpoints_ que tenga el lead con mi producto integral durante el **momento de compra** (mop), son considerados **TP finales**.
 
-<figure><img src=".gitbook/assets/funnelhype.png" alt=""><figcaption><p>Touchpoints para TPf y TPi</p></figcaption></figure>
+<figure><img src=".gitbook/assets/funnelhype.png" alt="touchpoints por etapa vulcan growth model"><figcaption><p>Touchpoints para TPf y TPi</p></figcaption></figure>
 
 Suponiendo que en la etapa de research tenemos **3 TPs** (anuncios en redes, una excelente tabla de pricing y un website robusto) y en la etapa final tenemos **12 TPs** (como una conversación por whatsapp o la descarga de un infográfico), en **5 días** de proceso total de compra, podemos calcular un **hype de 1.4 TPs / día**.
 
-<figure><img src=".gitbook/assets/Frame 39 (1).png" alt=""><figcaption><p>Ejemplo, cálculo del hype</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 39 (1).png" alt="calculo hype formula"><figcaption><p>Ejemplo, cálculo del hype</p></figcaption></figure>
 
 ### Interpretando el Hype
 
@@ -184,11 +186,7 @@ Ahora conociendo qué es el hype, para que funciona, como se calcula y como inte
 
 El _**trigger**_ es el momento de realización del problema.
 
-<figure><img src=".gitbook/assets/trigger.png" alt=""><figcaption><p>Trigger, en el vulcan funnel.</p></figcaption></figure>
-
-{% content-ref url="fundamentals/mental-process.md" %}
-[mental-process.md](fundamentals/mental-process.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/trigger.png" alt="trigger vulcan growth model"><figcaption><p>Trigger, en el vulcan funnel.</p></figcaption></figure>
 
 El trigger convive directamente con el proceso mental, es el que crea el proceso mental en donde nuestro producto toma parte.
 
@@ -264,7 +262,7 @@ Los **touchpoints outbound** son aquellos en los que la empresa toma la iniciati
 
 **Se pueden calcular entrevistando a una muestra de usuarios por channel y evaluando en un rango 1-100% la correlación entre los intereses del lead vs los intereses buscados.**
 
-<figure><img src=".gitbook/assets/Frame 12 (3).png" alt=""><figcaption><p>mNql // mql</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 12 (3).png" alt="leads marketing growth model vulcan"><figcaption><p>mNql // mql</p></figcaption></figure>
 
 Es importante conocer a los leads que convertimos en clientes, pero es aún más importante entender a los leads no calificados que lo hacen.
 
@@ -278,15 +276,21 @@ Es tedioso, pero este análisis nos permite encontrar esa piedra en el arroz que
 
 Imagina que tienes un negocio de venta de zapatillas deportivas, y has estado promoviendo tu sitio web a través de anuncios en línea. Muchas personas han visitado tu sitio web, pero solo unas pocas han completado un formulario de contacto o han descargado un recurso valioso que ofreces. Estas personas son tus leads calificados, ya que han demostrado interés en tus zapatillas deportivas y han tomado acción para convertirse en un cliente potencial.
 
-Pero, hay muchas otras personas que han visitado tu sitio web, pero todavía no han tomado ninguna acción para convertirse en un lead calificado. Estas personas son tus mNql, o tus Marketing Non Qualified Leads. Aunque todavía pueden ser una oportunidad potencial de ventas, todavía necesitan ser "calificados" antes de ser considerados un Lead potencial.
+Pero, hay muchas otras personas que han visitado tu sitio web, pero todavía no han tomado ninguna acción para convertirse en un lead calificado.&#x20;
+
+Estas personas son tus mNql, o tus Marketing Non Qualified Leads. Aunque todavía pueden ser una oportunidad potencial de ventas, todavía necesitan ser "calificados" antes de ser considerados un Lead potencial.
 
 Entonces, como dueño del negocio, debo seguir trabajando en convertir estos mNql en leads calificados, mediante la segmentación de mi publico, la comunicación adecuada y la oferta de contenido relevante para poder convertirlos en clientes potenciales y aumentar las posibilidades de ventas.
 
 ### mql
 
-Ahora imagina que tienes un negocio de venta de zapatillas deportivas, y has estado promoviendo tu sitio web a través de una estrategia de contenido. Muchas personas han visitado tu sitio web y han completado un formulario de contacto o han descargado un recurso valioso que ofreces, como una guía para elegir la mejor zapatilla para correr. Estas personas son tus Marketing Qualified Leads, ya que han demostrado interés en tus zapatillas deportivas y han tomado acción para convertirse en un cliente potencial.
+Ahora imagina que tienes un negocio de venta de zapatillas deportivas, y has estado promoviendo tu sitio web a través de una estrategia de contenido. Muchas personas han visitado tu sitio web y han completado un formulario de contacto o han descargado un recurso valioso que ofreces, como una guía para elegir la mejor zapatilla para correr.&#x20;
 
-Estos leads calificados son muy valiosos para mi, ya que ya han mostrado un interés específico en mis productos y han demostrado estar en una etapa avanzada del proceso de compra, por lo que es más probable que se conviertan en clientes. Entonces, debo seguir trabajando en nutrir a estos leads calificados, mediante la personalización de la comunicación, ofreciendo contenido relevante y ofertas especiales para atraerlos a tomar la acción deseada.
+Estas personas son tus Marketing Qualified Leads, ya que han demostrado interés en tus zapatillas deportivas y han tomado acción para convertirse en un cliente potencial.
+
+Estos leads calificados son muy valiosos para mi, ya que ya han mostrado un interés específico en mis productos y han demostrado estar en una etapa avanzada del proceso de compra, por lo que es más probable que se conviertan en clientes.&#x20;
+
+Entonces, debo seguir trabajando en nutrir a estos leads calificados, mediante la personalización de la comunicación, ofreciendo contenido relevante y ofertas especiales para atraerlos a tomar la acción deseada.
 
 
 
@@ -296,13 +300,13 @@ La profundidad (_**"depth"**_) es una suma de los puntos de contacto ([_touchpoi
 
 Un [funnel tradicional](fundamentals/marketing-funnel.md) infiere que el lead atraviesa de manera lineal y metódica un proceso, lo cuál hemos comprobado anteriormente que no es así.
 
-<figure><img src=".gitbook/assets/depthgraph.png" alt=""><figcaption><p>Profundidad gráfica.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/depthgraph.png" alt="vulcan growth model channels"><figcaption><p>Profundidad gráfica.</p></figcaption></figure>
 
 Un cliente puede iniciar el proceso al inicio, a la mitad o casi al final del funnel, no es un proceso lineal. Así también puede terminarlo donde su proceso lo desee. Puede realizar la compra justo después de ver tu anuncio de Facebook sin antes haber realizado comparativa. No necesariamente atraviesa el funnel completo.
 
 Si desglosamos la imagen podemos partir el modelo en **3 dimensiones**:
 
-<figure><img src=".gitbook/assets/Frame 44 (3).png" alt=""><figcaption><p>Tres ejes del vulcan funnel.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 44 (3).png" alt="ejes vulcan growth model axis"><figcaption><p>Tres ejes del vulcan funnel.</p></figcaption></figure>
 
 Los pasos o _**steps** _ (x) son las etapas del main funnel; los ** **_**leads**_ (y) atravesando las etapas; y, los canales o _**channels**_ (z) son comunes denominadores de procesos mentales del lead.
 
@@ -318,19 +322,19 @@ La **matriz de volumen** es una herramienta diseñada para mapear los _canales_ 
 
 Los ** **_**channels**_ son distribuidos por _step_ o etapa, es decir, en el _step_ ‘**discovery**‘ tendré procesos mentales de los leads al estar en esta etapa.Por ejemplo, leads que tuvieron malas experiencias y buscan una solución, leads que se basan en la curiosidad, etc…En este paso no tomes mucho tiempo, lo importante es dividir segmentos.Ahora sí..
 
-<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-57-1-510x326.png" alt=""><figcaption><p>Matriz de Volumen</p></figcaption></figure>
+<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-57-1-510x326.png" alt="matriz de volumen vulcan growth model descarga template"><figcaption><p>Matriz de Volumen</p></figcaption></figure>
 
 ### Touchpoints por channel <a href="#touchpoints-por-channel" id="touchpoints-por-channel"></a>
 
 Llenamos la herramienta con algún símbolo que caracterice a nuestro channel.En este caso, un planeta para los que llegar explorando, un gesto negativo para los que tuvieron una mala experiencia externa, un zapato de tacón para los que llegan buscando el producto bajo un deseo, etc…
 
-<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-81-510x371.png" alt=""><figcaption><p>Touchpoints por canal</p></figcaption></figure>
+<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-81-510x371.png" alt="touchpoints por channel vulcan"><figcaption><p>Touchpoints por canal</p></figcaption></figure>
 
 ### new, bye y mop
 
 Llenamos nuestra matriz con los _**new**_, _**bye**_ y _**mop**_. Te explico que son con el ejemplo del canal **«explorando»** en la matriz de arriba:
 
-<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-77-510x326.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/Group-77-510x326.png" alt="vgm model lleno"><figcaption></figcaption></figure>
 
 _**new**_** = Leads que entran al funnel explorando su problema**
 
@@ -346,15 +350,15 @@ Un lead que compro directamente sin interacción previa.
 
 ## iVulcan
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FQYSAKOez9p0XWeOydvPz%2Fivulcanmatrix.png?alt=media&#x26;token=718446e6-5036-43cb-b6b8-7f8d3be45af0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FQYSAKOez9p0XWeOydvPz%2Fivulcanmatrix.png?alt=media&#x26;token=718446e6-5036-43cb-b6b8-7f8d3be45af0" alt="formula indice vulcan growth model"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Group (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Group (3).png" alt="formula indice vulcan ivulcan"><figcaption></figcaption></figure>
 
 #### Índice de Vulcan <a href="#indice-de-vulcan" id="indice-de-vulcan"></a>
 
 El _índice de vulcan_, _**** ó ****_** iVulcan**, es un cociente que ayuda a predecir el engagement o la efectividad de un canal.Imagina que en mi empresa corro la matriz de vulcan, y mapeo que en cierto canal tengo 10 compras. Estoy contento con ese output, pero no entiendo realmente el contexto bajo el que se crean esas 10 compras. ¿10 compras es mucho o es poco?.Es justo esa pregunta la que responde el índice de vulcan, te ofrece un contexto sobre la viralidad, el engagement, la efectividad de un canal.Si tu matriz se ve así, estás listo para calcularlo.Calcular el **iVulcan** es muy sencillo.Solo reemplaza la fórmula con tus _**new**_, _**bye**_ y _**mop**_ x cada channel.
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FZ3xbuwKSJ59xBhGxE9OZ%2FGroup%2077%20(1).png?alt=media&#x26;token=f661a69b-f406-4a9d-8077-27a1d7871664" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FZ3xbuwKSJ59xBhGxE9OZ%2FGroup%2077%20(1).png?alt=media&#x26;token=f661a69b-f406-4a9d-8077-27a1d7871664" alt="matriz de vulcan volumen lleno"><figcaption></figcaption></figure>
 
 ### Interpretación <a href="#interpretacion" id="interpretacion"></a>
 
@@ -362,19 +366,19 @@ El índice de Vulcan es un cociente, entre más se acerque al 1, más cerca de u
 
 Si tengo 27 _new_, 0 _bye_ y 27 _mop_, tengo un canal tan _efectivo_, que tiene la misma cantidad de leads nuevos como convertidos.
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2F01qSnjw5WBnHEGrbIYlz%2Fimage.png?alt=media&#x26;token=0758463e-4aee-4894-a313-e0ba7749cc8a" alt=""><figcaption><p>Balance</p></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2F01qSnjw5WBnHEGrbIYlz%2Fimage.png?alt=media&#x26;token=0758463e-4aee-4894-a313-e0ba7749cc8a" alt="balance vgm vulcan"><figcaption><p>Balance</p></figcaption></figure>
 
 El ejemplo opuesto es un canal desbalanceado o _inefectivo_.
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FQsZkIxohqQt9VusfPCOe%2Fimage.png?alt=media&#x26;token=2fe7b0d3-d185-4428-8dc6-40dd1fbebe29" alt=""><figcaption><p>Desbalance</p></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FQsZkIxohqQt9VusfPCOe%2Fimage.png?alt=media&#x26;token=2fe7b0d3-d185-4428-8dc6-40dd1fbebe29" alt="desbalance growth model vulcan"><figcaption><p>Desbalance</p></figcaption></figure>
 
 Al ir llenando cada uno, tendremos una matriz terminada.
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FocpfP1qD3bIuKEiOQM9T%2Fimage.png?alt=media&#x26;token=5127bfd4-678f-4c64-a2a9-1776af97ff74" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FocpfP1qD3bIuKEiOQM9T%2Fimage.png?alt=media&#x26;token=5127bfd4-678f-4c64-a2a9-1776af97ff74" alt="template matriz de vulcan"><figcaption></figcaption></figure>
 
 ## Vulcan Matrix
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FEKcRqoEKD3XmiVUBJI27%2Fimage.png?alt=media&#x26;token=0b19f446-b217-47ca-97f4-e34441d77600" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FEKcRqoEKD3XmiVUBJI27%2Fimage.png?alt=media&#x26;token=0b19f446-b217-47ca-97f4-e34441d77600" alt="matriz de vulcan"><figcaption></figcaption></figure>
 
 Te dejo un spreadsheets para que clones el proyecto.
 
@@ -386,9 +390,9 @@ Dividimos por step…
 
 _**¿Entre «**explorando**», «**mala experiencia**» y «**me gustaría…**» cuál obtuvo una mayor** iVulcan**?**_
 
-<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/image-27-1-510x254.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="http://luiszorrilla.com/wp-content/uploads/2023/01/image-27-1-510x254.png" alt="matriz vulcan growth model"><figcaption></figcaption></figure>
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FKgkR8PGrUABZKcbljwCB%2FFrame%2054%20(2).png?alt=media&#x26;token=ddae9ec6-7010-474f-b4ab-582ecc08f79b" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FKgkR8PGrUABZKcbljwCB%2FFrame%2054%20(2).png?alt=media&#x26;token=ddae9ec6-7010-474f-b4ab-582ecc08f79b" alt="resultados matriz vulcan growth model"><figcaption></figcaption></figure>
 
 Llenamos la matriz con los índices de Vulcan más fuertes por step…Canales balanceados por matriz.Ya que tenemos nuestra matriz de Vulcan completa, pasamos a la analizarla.Calcularemos 5 valores que nos permitirá definir...
 
@@ -406,7 +410,7 @@ O también podemos etiquetar los valores como:
 
 La moda es un valor que no utilizaremos, por que los canales pueden tener resultados muy distantes y específicos como para clusterizar los resultados.
 
-<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FxthGtbaSfpQBrpUUKKnA%2FFrame%2086.png?alt=media&#x26;token=2b1b2780-c31d-4f82-9a26-d944d3ea7a0a" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://4090761682-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FY87J3k27L3F0DnztiFNY%2Fuploads%2FxthGtbaSfpQBrpUUKKnA%2FFrame%2086.png?alt=media&#x26;token=2b1b2780-c31d-4f82-9a26-d944d3ea7a0a" alt="valores calculo vulcan vgm"><figcaption></figcaption></figure>
 
 ## Resultados Finales <a href="#interpretracion-de-resultados" id="interpretracion-de-resultados"></a>
 
@@ -438,7 +442,19 @@ Este modelo te permite pulverizar un volcán en pequeñas partes, evaluar cada u
 
 ## Conclusiones
 
+El nivel de detalle al que llegamos es tan profundo que podemos variar en la periodicidad del ejercicio y sigue teniendo buenos resultados. Además el modelo es agnóstico al presupuesto, por lo que puedes probar el Vulcan Growth Model con solo touchpoints orgánicos.
 
+Los visión al ver todo desde la óptica del trigger es mucho más precisa y permite identificar puntos débiles muy específicos, mejorarlos y medir esa mejora. También te permite detectar los touchpoints y canales que son la columna vertebral de toda tu estrategia de marketing.
+
+El valor del framework está en la personalización del funnel, pero en la libertad para construirlo, todo enfocado a números, métricas, resultados.
+
+Este framework no busca ser una verdad absoluta, si no lo contrario. Este modelo esta abierto a modificaciones y tú mismo puedes aportar al proyecto.
+
+Gracias por leer.
+
+**Luis Zorrilla,** [**luiszorrilla.com**](https://luiszorrilla.com)****
+
+_lc@luiszorrilla.com_
 
 
 

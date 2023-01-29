@@ -1,10 +1,10 @@
 ---
 description: Resumen y conclusiones del Vulcan Growth Model
+cover: .gitbook/assets/Frame 4.png
+coverY: -348
 ---
 
 # 🏁 Abstract
-
-<figure><img src=".gitbook/assets/Frame 33.png" alt="vulcangrowthmodel"><figcaption></figcaption></figure>
 
 Si utilizas un embudo tradicional como framework, basas tus métricas en un modelo creado en 1910.
 

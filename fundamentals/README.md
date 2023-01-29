@@ -27,7 +27,7 @@ Un journey hasta la compra no funciona así.
 {% endtab %}
 {% endtabs %}
 
-El [**vulcan growth model**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) es una analogía inversa del _funnel de ventas_ con un volcán, buscando una erupción en la conversión de leads, en lugar de ser un filtro.
+El [**vulcan growth model**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) es una analogía inversa del _embudo de ventas_ con un volcán, buscando una erupción en la conversión de leads, en lugar de ser un filtro.
 
 El **framework** [**vgm**](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/Y87J3k27L3F0DnztiFNY/) no pretende ser una verdad absoluta ni marcar un funnel adecuado que permee en la amplia gama de industrias, productos, servicios o contextos, pero si te ayudará a mapear un funnel específico para el tuyo.
 

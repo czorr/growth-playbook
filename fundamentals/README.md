@@ -23,7 +23,7 @@ Un journey hasta la compra no funciona así.
 {% endtab %}
 
 {% tab title="... la realidad." %}
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>No funciona un lead que se convertirá en una unidad de <em>churn</em></td></tr><tr><td>Es un conjunto de etapas, tiempos y canales mentales</td></tr><tr><td>El enfoque principal es la aceleración</td></tr><tr><td>Mide la profundidad del funnel</td></tr><tr><td>Existen "n" caminos y es necesario mapear la mayoría</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>No funciona un lead que se convertirá en una unidad de <em>churn</em></td></tr><tr><td>Es un conjunto de etapas, tiempos y canales mentales</td></tr><tr><td>Se enfoca en el <a href="../hype/">hype</a> como medida de aceleración</td></tr><tr><td>El funnel tiene profundidad</td></tr><tr><td>Existen "n" caminos y es necesario mapear la mayoría</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 

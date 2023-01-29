@@ -4,7 +4,6 @@ description: >-
   non qualified lead)
 cover: ../.gitbook/assets/bannermnql.png
 coverY: 0
-layout: editorial
 ---
 
 # 🟪 Marketing Qualified Leads

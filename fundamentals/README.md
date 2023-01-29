@@ -1,7 +1,6 @@
 ---
 cover: ../.gitbook/assets/bannerfundam.png
 coverY: 0
-layout: editorial
 ---
 
 # 🟧 Fundamentals

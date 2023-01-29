@@ -4,6 +4,7 @@ description: >-
   con su problema.
 cover: ../.gitbook/assets/bannerhype.png
 coverY: 0
+layout: editorial
 ---
 
 # 🟨 Hype

@@ -21,5 +21,5 @@
   * [iVulcan](depth/volume-matrix/3.-ivulcan.md)
   * [Vulcan Matrix](depth/volume-matrix/4.-vulcan-matrix.md)
 * [🏁 Abstract](abstract.md)
-* [⬛ lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
-* [🟦 LinkedIn](https://www.linkedin.com/in/luiscarloszorrilla/)
+* [lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
+* [LinkedIn](https://www.linkedin.com/in/luiscarloszorrilla/)

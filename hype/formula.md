@@ -8,7 +8,7 @@ La **fórmula del hype** es una comparación directa con la [fórmula de acelera
 
 
 
-**"TP"**, o _touchpoints_, se refieren a los puntos de contacto que tiene un lead con tu empresa. Estos _touchpoints_ le dan contexto sobre tu solución al lead para resolver su problema.
+**"TP"**, o [_touchpoints_](touchpoints.md), se refieren a los puntos de contacto que tiene un lead con tu empresa. Estos _touchpoints_ le dan contexto sobre tu solución al lead para resolver su problema.
 
 La "**f**" y la "**i**" después de los "**TP**" se refieren a los _touchpoints_ **finales** e **iniciales**.
 

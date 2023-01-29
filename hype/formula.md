@@ -26,7 +26,7 @@ Suponiendo que en la etapa de research tenemos **3 TPs** (anuncios en redes, una
 
 <figure><img src="../.gitbook/assets/Frame 39 (1).png" alt=""><figcaption><p>Ejemplo, cálculo del hype</p></figcaption></figure>
 
-## ¿Qué demuestran los resultados del _hype_?
+## Interpretación de Resultados
 
 **Un hype > 1**, nos indica que tu lead va recibiendo más información conforme se va adentrando en tu solución.
 
@@ -36,6 +36,8 @@ Suponiendo que en la etapa de research tenemos **3 TPs** (anuncios en redes, una
 
 **Un hype negativo,** nos indica que el lead tuvo un problema que no se repite a menudo, hubo un rush al inicio por tener información sobre tu solución, pero no perduró con el tiempo.
 
-
+{% hint style="danger" %}
+El hype es más un score que una métrica. El hype refiere a un proceso dosificado y creciente de touchpoints en un rango de tiempo. El resultado del score hype, refleja que tan bien se cumple ese efecto.
+{% endhint %}
 
 Ahora conociendo qué es el hype, para que funciona, como se calcula y como interpretar su resultado, pasamos a analizar el momento clave del proceso, el _trigger_.

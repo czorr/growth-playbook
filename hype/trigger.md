@@ -4,17 +4,13 @@ El _**trigger**_ es el momento de realización del problema.
 
 <figure><img src="../.gitbook/assets/trigger.png" alt=""><figcaption><p>Trigger, en el vulcan funnel.</p></figcaption></figure>
 
-{% content-ref url="../fundamentals/mental-process.md" %}
-[mental-process.md](../fundamentals/mental-process.md)
-{% endcontent-ref %}
-
 El trigger convive directamente con el proceso mental, es el que crea el proceso mental en donde nuestro producto toma parte.
 
 En una [encuesta reciente de McKinsey](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done), el **84%** de los c-class globales informaron que **la innovación era extremadamente importante para sus estrategias de growth**, pero un **94% no estaba satisfecho con el desempeño de innovación de sus organizaciones**.
 
 Es curioso como entre más información tenemos año con año de nuestros posibles clientes, menos los conocemos. Entre más grande es la base de datos, mayor complejidad en encontrar un solo insight de valor. Y esto pasa cuando no nos hacemos las preguntas correctas.
 
-### La pregunta correcta aquí **no es** cuál es "el _**problema"**_, **es** conocer cual es "el _**trigger"**_. <a href="#pregunta-correcta" id="pregunta-correcta"></a>
+### La pregunta correcta aquí **no es** ¿cuál es "el _**problema"?**_, **es** conocer ¿cual es "el _**trigger"?**_. <a href="#pregunta-correcta" id="pregunta-correcta"></a>
 
 Si puedo ser capaz de detectar el trigger que detono tu problema, puedo ser capaz de moldearte un camino "ideal" por el cuál atravesar y comprar mi solución.
 

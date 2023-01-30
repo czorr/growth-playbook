@@ -1,5 +1,7 @@
 ---
-description: Metodología para crear tu propio funnel tridimensional de marketing.
+description: >-
+  Metodología para medir canales tridimensionales y automatizar el aprendizaje
+  de experimentos basado en datos.
 cover: .gitbook/assets/Frame 33.png
 coverY: 163.12628487518356
 layout: landing

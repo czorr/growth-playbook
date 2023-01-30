@@ -14,10 +14,6 @@ En una [encuesta reciente de McKinsey](https://hbr.org/2016/09/know-your-custome
 
 Es curioso como entre más información tenemos año con año de nuestros posibles clientes, menos los conocemos. Entre más grande es la base de datos, mayor complejidad en encontrar un solo insight de valor. Y esto pasa cuando no nos hacemos las preguntas correctas.
 
-{% hint style="success" %}
-#### Que por cierto, tengo un framework sobre como hacerte solo las preguntas correctas a la hora de experimentar.  [Ollivander](https://app.gitbook.com/o/VdWI8br0I4LnSbZvx7Pv/s/shgoesDA9ytmPVbuoMzK/ "mention")
-{% endhint %}
-
 ### La pregunta correcta aquí **no es** cuál es "el _**problema"**_, **es** conocer cual es "el _**trigger"**_. <a href="#pregunta-correcta" id="pregunta-correcta"></a>
 
 Si puedo ser capaz de detectar el trigger que detono tu problema, puedo ser capaz de moldearte un camino "ideal" por el cuál atravesar y comprar mi solución.

@@ -6,7 +6,7 @@ coverY: -348
 
 # 🏁 Abstract
 
-Si utilizas un embudo tradicional como framework, basas tus métricas en un modelo creado en 1910.
+Si utilizas un embudo tradicional como framework, basas tus métricas en un modelo creado en 1910. Y este _statement_ es mucho más duro que sensionalista.
 
 <figure><img src=".gitbook/assets/Frame 2.png" alt="funnel desactualizado"><figcaption></figcaption></figure>
 

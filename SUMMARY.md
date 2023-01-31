@@ -23,3 +23,4 @@
 * [🏁 Abstract](abstract.md)
 * [lczorrilla.com](https://luiszorrilla.com/portfolio/vulcan-growth-model/)
 * [LinkedIn](https://www.linkedin.com/in/luiscarloszorrilla/)
+* [ChatGPT-3 Summary](chatgpt-3-summary.md)

@@ -4,11 +4,27 @@ cover: .gitbook/assets/chatgpt.jpg
 coverY: 0
 ---
 
-# ChatGPT-3 Summary
+# AI Summary
 
-[https://chat.openai.com/](https://chat.openai.com/)\
-\
-"Vulcan Growth Model"
+Text = [https://chat.openai.com/](https://chat.openai.com/)
+
+Art = [https://playgroundai.com/](https://playgroundai.com/)
+
+<div>
+
+<figure><img src=".gitbook/assets/polymode-style-3d-volcano-emoji-style-with-a-black-grid-remarking-his-3d-orange-with-brown-full-290058548.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/polymode-style-3d-volcano-emoji-style-with-a-black-grid-remarking-his-3d-orange-with-brown-full-886050569.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/3d-volcano-emoji-style-with-a-black-grid-remarking-his-3d-orange-with-brown-full-color-hd-plast-290058548.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## "Vulcan Growth Model"
 
 El Modelo Vulcan de Crecimiento es un nuevo enfoque en el marketing y la gestión del crecimiento. Este modelo fue creado por Luis Zorrilla y propone una forma más efectiva de entender y medir el crecimiento de una empresa o producto. El objetivo principal del Modelo Vulcan es asegurarse de que los esfuerzos de marketing estén enfocados en los puntos de contacto más importantes y relevantes con el cliente, para asegurar una mayor eficacia y eficiencia.
 

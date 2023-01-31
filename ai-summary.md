@@ -1,14 +1,10 @@
 ---
-description: Resumen creado por chatgpt sin modificaciones.
+description: Text = https://chat.openai.com/ | Art = https://playgroundai.com/
 cover: .gitbook/assets/chatgpt.jpg
 coverY: 0
 ---
 
 # AI Summary
-
-Text = [https://chat.openai.com/](https://chat.openai.com/)
-
-Art = [https://playgroundai.com/](https://playgroundai.com/)
 
 <div>
 
@@ -35,3 +31,7 @@ El Modelo Vulcan, por otro lado, se enfoca en identificar y medir los puntos de 
 El Modelo Vulcan también tiene en cuenta la importancia relativa de cada touchpoint para el cliente y la empresa, y permite a los profesionales de marketing enfocarse en los touchpoints que tienen el mayor impacto en la decisión de compra del cliente. De esta manera, se puede maximizar el impacto de cada esfuerzo de marketing y aumentar la eficiencia y efectividad del mismo.
 
 En conclusión, el Modelo Vulcan es una alternativa más efectiva y moderna al embudo de marketing tradicional. Este modelo permite a los profesionales de marketing entender y medir el crecimiento de una empresa o producto de una manera más efectiva y eficiente, y asegurarse de que los esfuerzos de marketing estén enfocados en los puntos de contacto más importantes y relevantes con el cliente.
+
+
+
+#### El prompt, tanto las imágenes como el extracto, fue el URL del [abstract](abstract.md) del modelo.

@@ -34,4 +34,4 @@ En conclusión, el Modelo Vulcan es una alternativa más efectiva y moderna al e
 
 
 
-#### El prompt, tanto las imágenes como el extracto, fue el URL del [abstract](abstract.md) del modelo.
+#### El prompt, tanto de las imágenes como de el extracto, fue el URL del [abstract](abstract.md) del modelo.
